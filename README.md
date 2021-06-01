@@ -42,3 +42,9 @@ body{
 }
 ```
 You can see my stylesheet [here](https://foreverpyrite.github.io/css/stylesheet.css) for an example.
+
+#### Want to download and host the files yourself?
+
+Just return to the [main GitHub page](https://github.com/ForeverPyrite/Crazy-Clean-Font), click the green "`Code`" button, click  `Download ZIP`, extract the ZIP files however you can, and keep the `font-files` folder. That has all the needed files for this font.
+
+Have your own font you want to use in your own website? First download whatever font you want, than head over to [FontSquirrel](https://www.fontsquirrel.com/tools/webfont-generator) and use your ginormus brain full of everything you just learned (If that wasn't enough you always have [Google](https://google.com) and [YouTube](https://youtube.com)).
