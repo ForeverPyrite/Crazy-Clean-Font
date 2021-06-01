@@ -12,11 +12,11 @@ That's....a little tought BUT
 Open up your CSS file (or make one and learn how to import stylesheets, it's extremely easy) and just copy and past this as your font face (@font-face)
 ```css
 @font-face {
-    font-family: 'nimbus_sans_d_otlight';
-    src: url('https://foreverpyrite.github.io/font-files/nimbus-sans-d-ot-light_32752-webfont.woff2') format('woff2'),
-         url('https://foreverpyrite.github.io/font-files/nimbus-sans-d-ot-light_32752-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'nimbus_sans_d_otlight';
+  src: url('https://foreverpyrite.github.io/css/font-files/nimbus-sans-d-ot-light_32752-webfont.woff2') format('woff2'),
+       url('https://foreverpyrite.github.io/css/font-files/nimbus-sans-d-ot-light_32752-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 
 }
 ```
