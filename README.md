@@ -39,6 +39,6 @@ For IDs:
 Have your own font you want to use in your own website? First download whatever font you want as it's `.ttf file`, than head over to [FontSquirrel](https://www.fontsquirrel.com/tools/webfont-generator) and use your ginormous brain full of everything you just learned (If that wasn't enough you always have [Google](https://google.com) and [YouTube](https://youtube.com)).
 
 
-##The .ttf file
+## The .ttf file
 
 If you want to use the Font for simpler things, like for your PC, than just go ahead and download the font file itself <a href="https://github.com/ForeverPyrite/Crazy-Clean-Font/blob/main/Nimbus-Sans-D-OT-Light_32752.ttf?raw=true" target="_blank">right here</a>
