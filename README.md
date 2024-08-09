@@ -11,8 +11,8 @@ Open up your CSS file (or make one and learn how to import stylesheets, it's ext
 ```css
 @font-face {
   font-family: 'nimbus_sans_d_otlight';
-  src: url('https://raw.githubusercontent.com/ForeverPyrite/Crazy-Clean-Font/main/font-files/nimbus-sans-d-ot-light_32752-webfont.woff2') format('woff2'),
-       url('https://raw.githubusercontent.com/ForeverPyrite/Crazy-Clean-Font/main/font-files/nimbus-sans-d-ot-light_32752-webfont.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/ForeverPyrite/Crazy-Clean-Font/main/font-files/nimbus-sans-d-ot-light.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/ForeverPyrite/Crazy-Clean-Font/main/font-files/nimbus-sans-d-ot-light.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
