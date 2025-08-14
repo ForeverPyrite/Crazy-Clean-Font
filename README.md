@@ -1,4 +1,4 @@
-# Nimbus Sans OT D
+# Nimbus Sans D OT
 ## It's a font I like, but isn't very popular
 So I tried to download what font files did exist and [used the nerd font patcher](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher) to use it for everything but source code.
 I favor the "Hack" [nerd font](https://www.programmingfonts.org/#hack) for source code, so does everyone and that's irrelevant.
